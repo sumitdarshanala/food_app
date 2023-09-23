@@ -1,6 +1,27 @@
 # meal_1
 
 A new Flutter project.
+# Screenshots
+<table>
+  <tr>
+    <td>Home Page</td>
+     <td>Drawer</td>
+  </tr>
+  <tr>
+    <td><img src="lib/data/1.jpg" width=270 height=480></td>
+    <td><img src="lib/data/2WhatsApp Image 2023-09-23 at 20.39.59.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+ <table>
+  <tr>
+    <td>Items </td>
+     <td>Ingridients</td>
+  </tr>
+  <tr>
+    <td><img src="lib/data/3.jpg" width=270 height=480></td>
+    <td><img src="lib/data/4.jpg" width=270 height=480></td>
+  </tr>
+ </table>
 
 ## Getting Started
 
